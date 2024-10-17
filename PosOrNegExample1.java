@@ -4,7 +4,7 @@ class PosOrNegExample1{
     int a;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Finding Positive or Negative number");
+        System.out.println("Finding Positive or Negative number..!!");
         PosOrNegExample1 obj = new PosOrNegExample1();
         obj.a = sc.nextInt();
         if(obj.a==0){

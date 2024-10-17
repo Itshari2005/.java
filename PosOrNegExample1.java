@@ -15,7 +15,7 @@ class PosOrNegExample1{
             System.out.println("The number " + obj.a + " is Positive");
         }
         else{
-            System.out.println("The number" + obj.a + " is Negative");
+            System.out.println("The number " + obj.a + " is Negative");
         }
     }
 }
